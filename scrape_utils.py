@@ -49,9 +49,15 @@ def process_term(url):
                 word_definition = panel.find(attrs={"class":"meaning"}).get_text()
                 word_example = panel.find(attrs={"class":"example"}).get_text()
 
+                vote_panel = panel.find(attrs={"class":"up"})
+                votes = int(vote_panel.find(attrs={"class":"count"}).get_text())
+
                 entry['title'] = word_title
                 entry['definition'] = word_definition
                 entry['example'] = word_example
+                entry['votes'] = votes
+
+                print(word_title, votes)
 
                 definitions.append(entry)
         return definitions
