@@ -1,0 +1,53 @@
+01/28/2021 12:52:35 AM INFO Scraping letter A
+01/28/2021 12:52:35 AM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A
+01/28/2021 12:52:57 AM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A&page=2
+01/28/2021 12:53:29 AM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A&page=3
+01/28/2021 06:45:02 PM INFO Scraping letter A
+01/28/2021 06:45:02 PM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A
+01/28/2021 06:45:02 PM ERROR Error while processing A at https://www.urbandictionary.com/define.php?term=A
+01/28/2021 06:45:03 PM ERROR Error while processing A "10" at https://www.urbandictionary.com/define.php?term=A%20%2210%22
+01/28/2021 06:45:03 PM ERROR Error while processing A "Bitch" at https://www.urbandictionary.com/define.php?term=A%20%22Bitch%22
+01/28/2021 06:45:03 PM ERROR Error while processing A "callums corner" at https://www.urbandictionary.com/define.php?term=A%20%22callums%20corner%22
+01/28/2021 06:45:04 PM ERROR Error while processing A "Cher" at https://www.urbandictionary.com/define.php?term=A%20%22Cher%22
+01/28/2021 06:45:04 PM ERROR Error while processing a "dezmond" at https://www.urbandictionary.com/define.php?term=a%20%22dezmond%22
+01/28/2021 06:45:04 PM ERROR Error while processing a "Gerardo" at https://www.urbandictionary.com/define.php?term=a%20%22Gerardo%22
+01/28/2021 06:45:05 PM ERROR Error while processing A "Grady" at https://www.urbandictionary.com/define.php?term=A%20%22Grady%22
+01/28/2021 06:45:05 PM ERROR Error while processing A "Huuuuuuummm" at https://www.urbandictionary.com/define.php?term=A%20%22Huuuuuuummm%22
+01/28/2021 06:45:05 PM ERROR Error while processing a "J" at https://www.urbandictionary.com/define.php?term=a%20%22J%22
+01/28/2021 06:45:06 PM ERROR Error while processing a "Johnson" answer at https://www.urbandictionary.com/define.php?term=a%20%22Johnson%22%20answer
+01/28/2021 06:45:06 PM ERROR Error while processing a "Krupinski" at https://www.urbandictionary.com/define.php?term=a%20%22Krupinski%22
+01/28/2021 06:45:06 PM ERROR Error while processing A "perfect storm" at https://www.urbandictionary.com/define.php?term=A%20%22perfect%20storm%22
+01/28/2021 06:45:07 PM ERROR Error while processing A "Quick Drink" at https://www.urbandictionary.com/define.php?term=A%20%22Quick%20Drink%22
+01/28/2021 06:45:07 PM ERROR Error while processing a "Ryan Leaf" at https://www.urbandictionary.com/define.php?term=a%20%22Ryan%20Leaf%22
+01/28/2021 06:45:07 PM ERROR Error while processing A "scene" nickname at https://www.urbandictionary.com/define.php?term=A%20%22scene%22%20nickname
+01/28/2021 06:45:08 PM ERROR Error while processing A "Steve Jobs" at https://www.urbandictionary.com/define.php?term=A%20%22Steve%20Jobs%22
+01/28/2021 06:45:08 PM ERROR Error while processing a "sticky ricky" at https://www.urbandictionary.com/define.php?term=a%20%22sticky%20ricky%22
+01/28/2021 06:45:08 PM ERROR Error while processing a "tommy" at https://www.urbandictionary.com/define.php?term=a%20%22tommy%22
+01/28/2021 06:45:09 PM ERROR Error while processing A #2 Puffer at https://www.urbandictionary.com/define.php?term=A%20%232%20Puffer
+01/28/2021 06:45:09 PM ERROR Error while processing a #3 at https://www.urbandictionary.com/define.php?term=a%20%233
+01/28/2021 06:45:09 PM ERROR Error while processing A 'Bryn' Day at https://www.urbandictionary.com/define.php?term=A%20%27Bryn%27%20Day
+01/28/2021 06:45:10 PM ERROR Error while processing a 'DK' at https://www.urbandictionary.com/define.php?term=a%20%27DK%27
+01/28/2021 06:49:08 PM INFO Scraping letter A
+01/28/2021 06:49:08 PM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A
+01/28/2021 06:49:09 PM ERROR Error while processing A at https://www.urbandictionary.com/define.php?term=A
+01/28/2021 06:49:09 PM ERROR Error while processing A "10" at https://www.urbandictionary.com/define.php?term=A%20%2210%22
+01/28/2021 06:49:09 PM ERROR Error while processing A "Bitch" at https://www.urbandictionary.com/define.php?term=A%20%22Bitch%22
+01/28/2021 06:49:09 PM ERROR Error while processing A "callums corner" at https://www.urbandictionary.com/define.php?term=A%20%22callums%20corner%22
+01/28/2021 06:49:09 PM ERROR Error while processing A "Cher" at https://www.urbandictionary.com/define.php?term=A%20%22Cher%22
+01/28/2021 06:49:09 PM ERROR Error while processing a "dezmond" at https://www.urbandictionary.com/define.php?term=a%20%22dezmond%22
+01/28/2021 06:49:10 PM ERROR Error while processing a "Gerardo" at https://www.urbandictionary.com/define.php?term=a%20%22Gerardo%22
+01/28/2021 06:49:10 PM ERROR Error while processing A "Grady" at https://www.urbandictionary.com/define.php?term=A%20%22Grady%22
+01/28/2021 06:49:10 PM ERROR Error while processing A "Huuuuuuummm" at https://www.urbandictionary.com/define.php?term=A%20%22Huuuuuuummm%22
+01/28/2021 06:49:10 PM ERROR Error while processing a "J" at https://www.urbandictionary.com/define.php?term=a%20%22J%22
+01/28/2021 06:49:10 PM ERROR Error while processing a "Johnson" answer at https://www.urbandictionary.com/define.php?term=a%20%22Johnson%22%20answer
+01/28/2021 06:49:10 PM ERROR Error while processing a "Krupinski" at https://www.urbandictionary.com/define.php?term=a%20%22Krupinski%22
+01/28/2021 06:49:10 PM ERROR Error while processing A "perfect storm" at https://www.urbandictionary.com/define.php?term=A%20%22perfect%20storm%22
+01/28/2021 06:49:11 PM ERROR Error while processing A "Quick Drink" at https://www.urbandictionary.com/define.php?term=A%20%22Quick%20Drink%22
+01/28/2021 06:49:11 PM ERROR Error while processing a "Ryan Leaf" at https://www.urbandictionary.com/define.php?term=a%20%22Ryan%20Leaf%22
+01/28/2021 06:49:11 PM ERROR Error while processing A "scene" nickname at https://www.urbandictionary.com/define.php?term=A%20%22scene%22%20nickname
+01/28/2021 06:49:11 PM ERROR Error while processing A "Steve Jobs" at https://www.urbandictionary.com/define.php?term=A%20%22Steve%20Jobs%22
+01/28/2021 07:09:11 PM INFO Scraping letter A
+01/28/2021 07:09:11 PM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A
+01/28/2021 09:39:53 PM INFO Scraping letter A
+01/28/2021 09:39:53 PM INFO Scraping page https://www.urbandictionary.com/browse.php?character=A
+01/28/2021 09:41:00 PM INFO Scraping letter A
